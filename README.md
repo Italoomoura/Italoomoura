@@ -32,5 +32,3 @@ You can find me on the following social networks:
 </p>  
 
 Feel free to reach out for collaborations, tech discussions, or just to exchange ideas!
-
-[Leia em Português](README.pt.md) | [Read in English](README.en.md)
