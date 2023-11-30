@@ -36,9 +36,11 @@ Você pode me encontrar nas seguintes redes sociais:
 
 Sinta-se à vontade para entrar em contato para colaborações, discussões sobre tecnologia ou apenas para trocar ideias!
 
-### Language Selection / Seleção de Idioma:
+###  Language Selection / Seleção de Idioma / Sprachauswahl / Selección de Idioma :
 
 - 🇺🇸 [Read in English](README.en.md)
 - 🇧🇷 [Leia em Português](README.pt.md)
+- 🇩🇪 [Lesen Sie auf Deutsch](README.de.md)
+- 🇪🇸 [Leer en Español](README.es.md)
 
-Please select your preferred language above! | Por favor, selecione o idioma acima!
+Please select your language above | Por favor, selecione seu idioma acima | Bitte wählen Sie oben Ihre Sprache aus | Por favor seleccione su idioma arriba
