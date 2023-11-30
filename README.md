@@ -32,3 +32,10 @@ You can find me on the following social networks:
 </p>  
 
 Feel free to reach out for collaborations, tech discussions, or just to exchange ideas!
+
+### Language Selection / Seleção de Idioma:
+
+- 🇺🇸 [Read in English](README.en.md)
+- 🇧🇷 [Leia em Português](README.pt.md)
+
+Please select your preferred language above! | Por favor, selecione o idioma acima!
