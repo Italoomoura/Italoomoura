@@ -1,13 +1,11 @@
 # Hello, Developers! 👋
 
- Currently pursuing a degree in **Computer Science** at [Your University] (insert link to your university).
-
 - 🤔 &nbsp; Tech enthusiast passionate about crafting innovative software solutions.
 - 🎓 &nbsp; Currently pursuing a degree in **Computer Science** at <a href="https://www.unip.br/">UNIP</a>.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## **Linguagens e Ferramentas:**  
+## Languages and Tools: 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
