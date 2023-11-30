@@ -1,7 +1,9 @@
-### Olá devs 👋
+# Hello, Developers! 👋
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.unip.br/">UNIP</a>.
+ Currently pursuing a degree in **Computer Science** at [Your University] (insert link to your university).
+
+- 🤔 &nbsp; Tech enthusiast passionate about crafting innovative software solutions.
+- 🎓 &nbsp; Currently pursuing a degree in **Computer Science** at <a href="https://www.unip.br/">UNIP</a>.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -17,10 +19,18 @@
 
 <br>
 
-#### Rede Sociais!
+I'm constantly learning and honing my skills in various languages and tools to create amazing projects.
+
+### Get in Touch:
+
+You can find me on the following social networks:
 
 <p align="left">
   <a href="https://api.whatsapp.com/send?phone=5511996933977&text=Olá" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/italo-moura-7779a9232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:italomourasant9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>  
+
+Feel free to reach out for collaborations, tech discussions, or just to exchange ideas!
+
+[Leia em Português](README.pt.md) | [Read in English](README.en.md)
