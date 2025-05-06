@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Tech enthusiast passionate about crafting innovative software solutions.
 - 🎓 &nbsp; Currently pursuing a degree in **Computer Science** at <a href="https://www.unip.br/">UNIP</a>.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## Languages and Tools: 
 
